@@ -1,0 +1,8 @@
+listening on *:3000
+COM5
+port open. Data rate: 9600
+connect
+data received:01215908
+connect
+data received:01215908
+data received:01215908

@@ -1,0 +1,77 @@
+listening on *:3000
+COM5
+port open. Data rate: 9600
+connect
+connect
+data received:01215908
+data received:01215908
+data received:108163817
+data received:108163817
+data received:99SP32639122
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect
+connect

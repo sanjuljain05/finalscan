@@ -1,0 +1,3 @@
+Application has thrown an uncaught exception and is terminated:
+Error: Opening COM5: Access denied
+    at Error (native)
